@@ -1,0 +1,2 @@
+- URL: https://www.projectpro.io/project-use-case/customer-churn-prediction-using-python
+- URL: https://www.projectpro.io/project-use-case/customer-churn-analysis-mlops-aws
