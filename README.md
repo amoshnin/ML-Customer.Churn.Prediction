@@ -13,7 +13,7 @@
 
 - To develop a solution for this churn prediction problem I have been using customer data pertaining to his past transactions with the bank and some demographic information.
 
-- I have used this customer data to establish relations/associations between data features and customers' propensity to churn by building a classification model to predict whether the customer will leave the bank or not.
+- I have used this customer data to establish relations/associations between data features & customers' propensity to churn by building a classification model to predict whether the customer will leave the bank or not.
 
 - Furthermore, with an objective of explaning model predictions, I have built multiple visualisations which give insight into which factors are responsible for the churn of the customers.
 
