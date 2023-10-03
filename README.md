@@ -1,5 +1,6 @@
-- URL: https://www.projectpro.io/project-use-case/customer-churn-prediction-using-python
-- URL: https://www.projectpro.io/project-use-case/customer-churn-analysis-mlops-aws
+## Bank Customer Churn Prediction Machine Learning Model
+
+#### By Artem Moshnin
 
 ### Problem description
 
@@ -16,7 +17,3 @@
 - I have used this customer data to establish relations/associations between data features & customers' propensity to churn by building a classification model to predict whether the customer will leave the bank or not.
 
 - Furthermore, with an objective of explaning model predictions, I have built multiple visualisations which give insight into which factors are responsible for the churn of the customers.
-
-- Finally, I have deployed the model I've built to Amazon Web Services (AWS).
-
-### Solution description
